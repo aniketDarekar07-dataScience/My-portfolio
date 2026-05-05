@@ -1,8 +1,7 @@
 # My-portfolio Website
 **🚀 My Personal Portfolio Website | Data Scientist & ML Enthusiast**
 ## 🔗 Live Demo
-[https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
-
+## 👉 **[Click Here to View Portfolio](https://aniketdarekar07-datascience.github.io/My-portfolio/)** 👈
 ## 📊 About Me
 - 🎓 BSc Computer Science Graduate
 - 🤖 Data Scientist & ML Enthusiast
